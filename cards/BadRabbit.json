@@ -1,0 +1,11 @@
+{
+    "name": "Supper bad rabbit",
+    "description": "First NFT of the rabbit",
+    "image_url": "https://github.com/tkhoa/RabbitNFT/blob/main/cards/BadRabbit.jpg?raw=true",
+    "attributes": [
+    {
+    "trait_type": "class",
+    "value": "genesis"
+    }
+    ]
+    }
